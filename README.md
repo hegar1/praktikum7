@@ -16,6 +16,10 @@
 ## Source Code
 ![code](https://user-images.githubusercontent.com/115518483/205067495-db3ca8cf-dd4a-4e51-8aa8-b5b72ed29dcf.png)
 
+## Ini Adalah Flowchart Dari Program Tersebut
+![WhatsApp Image 2022-12-07 at 18 39 00](https://user-images.githubusercontent.com/115518483/206175271-3607dea4-5acc-4af8-adb0-b6705566ad79.jpeg)
+
+
 - Pada tugas praktikum saya kali ini menggunakan fitur function yang ada di Python. Dan menggunakan media penyimpanan data berupa Dictionary,Saya akan menjelaskan         sedikit mengenai fitur-fitur yang ada dalam program sederhana saya. Ketika program di run pada pertama kali, maka akan muncul tampilan seperti ini :
 ![Screenshot_19](https://user-images.githubusercontent.com/115518483/205068575-155c836f-fc44-4056-818c-9cfd6769a9a2.png)
 
